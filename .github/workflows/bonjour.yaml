@@ -13,6 +13,6 @@ jobs:
 
       - name: Présenter la machine
         run: |
-        whoami
-        uname -a
-        date
+          whoami
+          uname -a
+          date
